@@ -1,16 +1,17 @@
-UTS Machine Learning — Jalur B (Regresi)
+# UTS Machine Learning — Jalur B (Regresi)
 
-Prediksi Harga Produk Tokopedia dengan Regresi Linear
+## Prediksi Harga Produk Tokopedia dengan Regresi Linear
 
-Identitas
-Nama: Samuel Putra Piga
-NIM: 2301010352
-Kelas: XX
-Mata Kuliah: Machine Learning
-Dosen: Dr. I Gede Totok Suryawan, S.Kom., M.T.
-Program Studi: Informatika
+### Identitas Mahasiswa
+- **Nama:** Samuel Putra Piga
+- **NIM:** 2301010352
+- **Kelas:** XX
+- **Mata Kuliah:** Machine Learning
+- **Dosen:** Dr. I Gede Totok Suryawan, S.Kom., M.T.
+- **Program Studi:** Informatika
 
+---
 
-Pernyataan Penggunaan AI
-Alat yang dipakai: Claude (Anthropic).
-Untuk bagian apa: pembuatan kerangka notebook dan kode (pra-pemrosesan, pipeline, cross-validation, evaluasi), serta draf teks interpretasi dan kesimpulan.
+### Pernyataan Penggunaan AI
+- **AI yang digunakan:** Claude (Anthropic)
+- **Penggunaan:** Membantu penyusunan kerangka notebook dan kode, meliputi pra-pemrosesan data, pipeline, cross-validation, dan evaluasi model, serta membantu menyusun draf interpretasi hasil dan kesimpulan.
